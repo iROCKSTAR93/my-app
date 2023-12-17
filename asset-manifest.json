@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/iROCKSTAR93/my-app/static/css/main.31d6cfe0.css",
+    "main.js": "/iROCKSTAR93/my-app/static/js/main.9570b600.js",
+    "static/js/787.d4aba7ab.chunk.js": "/iROCKSTAR93/my-app/static/js/787.d4aba7ab.chunk.js",
+    "index.html": "/iROCKSTAR93/my-app/index.html",
+    "main.9570b600.js.map": "/iROCKSTAR93/my-app/static/js/main.9570b600.js.map",
+    "787.d4aba7ab.chunk.js.map": "/iROCKSTAR93/my-app/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.9570b600.js"
+  ]
+}
